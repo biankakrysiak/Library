@@ -1,2 +1,2 @@
 # Library
-Projekt na zaliczenie laboratorium programowanie obiektowe.
+Projekt na programowanie obiektowe
