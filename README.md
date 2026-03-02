@@ -51,7 +51,7 @@ Desktopowa aplikacja biblioteczna napisana w Javie z graficznym interfejsem uży
 
 ---
 
-## 👤 Domyślne konta
+## Domyślne konta
 
 | Rola          | Login     | Hasło  | Indeks |
 |---------------|-----------|--------|--------|
