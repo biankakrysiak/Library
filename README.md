@@ -100,6 +100,5 @@ Dane przechowywane są w pamięci operacyjnej (`static ArrayList`) - po zamknię
 
 ---
 
-## 📄 Licencja
 
-Projekt edukacyjny. Brak licencji komercyjnej.
+Projekt stworzony w ramach przedmiotu Programowanie obiektowe.
